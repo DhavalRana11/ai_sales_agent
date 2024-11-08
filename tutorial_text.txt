@@ -1,0 +1,336 @@
+Learn Python for Data Science, Structures, Algorithms, Interviews | Udemy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search barSearch for anythingSite navigationMost popular           More from UdemyUdemy BusinessGet the appInvite friendsHelp and SupportEnglish
+
+Development
+
+Web Development
+Data Science
+Mobile Development
+Programming Languages
+Game Development
+Database Design & Development
+Software Testing
+Software Engineering
+Software Development Tools
+No-Code Development
+
+Business
+
+Entrepreneurship
+Communication
+Management
+Sales
+Business Strategy
+Operations
+Project Management
+Business Law
+Business Analytics & Intelligence
+Human Resources
+Industry
+E-Commerce
+Media
+Real Estate
+Other Business
+
+Finance & Accounting
+
+Accounting & Bookkeeping
+Compliance
+Cryptocurrency & Blockchain
+Economics
+Finance
+Finance Cert & Exam Prep
+Financial Modeling & Analysis
+Investing & Trading
+Money Management Tools
+Taxes
+Other Finance & Accounting
+
+IT & Software
+
+IT Certifications
+Network & Security
+Hardware
+Operating Systems & Servers
+Other IT & Software
+
+Office Productivity
+
+Microsoft
+Apple
+Google
+SAP
+Oracle
+Other Office Productivity
+
+Personal Development
+
+Personal Transformation
+Personal Productivity
+Leadership
+Career Development
+Parenting & Relationships
+Happiness
+Esoteric Practices
+Religion & Spirituality
+Personal Brand Building
+Creativity
+Influence
+Self Esteem & Confidence
+Stress Management
+Memory & Study Skills
+Motivation
+Other Personal Development
+
+Design
+
+Web Design
+Graphic Design & Illustration
+Design Tools
+User Experience Design
+Game Design
+3D & Animation
+Fashion Design
+Architectural Design
+Interior Design
+Other Design
+
+Marketing
+
+Digital Marketing
+Search Engine Optimization
+Social Media Marketing
+Branding
+Marketing Fundamentals
+Marketing Analytics & Automation
+Public Relations
+Paid Advertising
+Video & Mobile Marketing
+Content Marketing
+Growth Hacking
+Affiliate Marketing
+Product Marketing
+Other Marketing
+
+Lifestyle
+
+Arts & Crafts
+Beauty & Makeup
+Esoteric Practices
+Food & Beverage
+Gaming
+Home Improvement & Gardening
+Pet Care & Training
+Travel
+Other Lifestyle
+
+Photography & Video
+
+Digital Photography
+Photography
+Portrait Photography
+Photography Tools
+Commercial Photography
+Video Design
+Other Photography & Video
+
+Health & Fitness
+
+Fitness
+General Health
+Sports
+Nutrition & Diet
+Yoga
+Mental Health
+Martial Arts & Self Defense
+Safety & First Aid
+Dance
+Meditation
+Other Health & Fitness
+
+Music
+
+Instruments
+Music Production
+Music Fundamentals
+Vocal
+Music Techniques
+Music Software
+Other Music
+
+Teaching & Academics
+
+Engineering
+Humanities
+Math
+Science
+Online Education
+Social Science
+Language Learning
+Teacher Training
+Test Prep
+Other Teaching & Academics
+
+
+Web Development
+JavaScript
+React JS
+Angular
+CSS
+Next.js
+HTML
+ASP.NET Core
+Node.Js
+
+
+AWS Certified Cloud Practitioner
+AWS Certified Solutions Architect - Associate
+CompTIA Security+
+CompTIA A+
+Amazon AWS
+Cisco Certified Network Associate (CCNA)
+Information Security
+AWS Certified AI Practitioner
+CompTIA Network+
+
+
+Microsoft Power BI
+SQL
+Data Modeling
+Data Analysis
+Business Analysis
+Tableau
+Business Intelligence (BI)
+Data Analysis Expressions (DAX)
+Business Analytics
+
+
+Unreal Engine
+Unity
+Game Development Fundamentals
+C# (programming language)
+3D Game Development
+Unreal Engine Blueprints
+Godot
+2D Game Development
+C++ (programming language)
+
+
+Google Flutter
+iOS Development
+Android Development
+React Native
+Dart (programming language)
+Swift
+Kotlin
+SwiftUI
+Mobile App Development
+
+
+Stock Options
+Accounting
+Financial Modeling
+Fintech
+Finance Fundamentals
+Forex Trading
+
+
+Graphic Design
+Canva
+Adobe Illustrator
+Adobe Photoshop
+Drawing
+Adobe InDesign
+Procreate Digital Illustration App
+Design Theory
+Digital Painting
+
+
+Life Coach Training
+Neuro-Linguistic Programming (NLP)
+Personal Development
+Personal Transformation
+Sound Therapy
+Coaching
+Horsemanship
+Mindfulness
+Life Purpose
+
+
+Business Fundamentals
+Entrepreneurship Fundamentals
+Freelancing
+Business Strategy
+Online Business
+Startup
+ChatGPT
+Business Plan
+Leadership
+
+
+Digital Marketing
+Marketing Strategy
+Social Media Marketing
+Internet Marketing
+ChatGPT
+Google Analytics
+Copywriting
+Startup
+Sales Funnel
+
+
+
+DevelopmentData SciencePythonPreview this coursePython for Data Science and Machine Learning BootcampLearn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!Rating: 4.6 out of 54.6 (146,881 ratings)738,089 studentsCreated by Jose Portilla, Pierian TrainingLast updated 5/2020EnglishEnglish, Arabic , 14 morePreview this courseWhat you'll learnUse Python for Data Science and Machine LearningUse Spark for Big Data AnalysisImplement Machine Learning AlgorithmsLearn to use NumPy for Numerical DataLearn to use Pandas for Data AnalysisLearn to use Matplotlib for Python PlottingLearn to use Seaborn for statistical plotsUse Plotly for interactive dynamic visualizationsUse SciKit-Learn for Machine Learning TasksK-Means ClusteringLogistic RegressionLinear RegressionRandom Forest and Decision TreesNatural Language Processing and Spam FiltersNeural NetworksSupport Vector MachinesShow moreShow lessRequirementsSome programming experienceAdmin permissions to download filesDescriptionAre you ready to start your path to becoming a Data Scientist! 
+This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms!
+Data Scientist has been ranked the number one job on Glassdoor and the average salary of a data scientist is over $120,000 in the United States according to Indeed! Data Science is a rewarding career that allows you to solve some of the world's most interesting problems!
+This course is designed for both beginners with some programming experience or experienced developers looking to make the jump to Data Science!
+This comprehensive course is comparable to other Data Science bootcamps that usually cost thousands of dollars, but now you can learn all that information at a fraction of the cost! With over 100 HD video lectures and detailed code notebooks for every lecture this is one of the most comprehensive course for data science and machine learning on Udemy!
+We'll teach you how to program with Python, how to create amazing data visualizations, and how to use Machine Learning with Python! Here a just a few of the topics we will be learning:
+Programming with PythonNumPy with PythonUsing pandas Data Frames to solve complex tasksUse pandas to handle Excel FilesWeb scraping with pythonConnect Python to SQLUse matplotlib and seaborn for data visualizationsUse plotly for interactive visualizationsMachine Learning with SciKit Learn, including:Linear RegressionK Nearest NeighborsK Means ClusteringDecision TreesRandom ForestsNatural Language ProcessingNeural Nets and Deep LearningSupport Vector Machinesand much, much more!
+Enroll in the course and become a data scientist today!
+Who this course is for:This course is meant for people with at least some programming experienceShow moreShow lessFeatured reviewJerry M.5 courses3 reviewsRating: 5.0 out of 54 years agoThis was my first course in Udemy, and with this instructor.   This was an excellent first class to jump into the world of data science.  All of the explanations were clear, and you can tell the instructor truly cares about software education.   It covers all the most important topics in machine learning, and gives just enough theoretical knowledge to have some basic understanding of the algorithms behind the scenes.  I'm already using some of the knowledge learned (and practiced!) here at work.Show moreShow lessInstructorsJose PortillaHead of Data Science at Pierian Training4.6 Instructor Rating1,218,730 Reviews4,052,352 Students87 CoursesJose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and years of experience as a professional instructor and trainer for Data Science, Machine Learning and Python Programming. He has publications and patents in various fields such as microfluidics, materials science, and data science. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming, the ability to analyze data, and the skills needed to present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Training and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, SalesForce, Starbucks, McKinsey and many more. Feel free to check out the website link to find out more information about training offerings.Show moreShow lessPierian TrainingData Science and Machine Learning Training4.6 Instructor Rating1,228,485 Reviews3,984,205 Students94 CoursesPierian Training stands as a premier provider in the realms of Data Science and Machine Learning education, offering both in-person and virtual instructor-led training tailored for enterprises. Explore our comprehensive profile to discover a wide range of courses designed to enhance your professional skills and organizational capabilities. Feel free to contact us if you have any questions in the link on our profile!Show moreShow less
+
+Top companies choose Udemy Business to build in-demand career skills.EnglishAbout usContact usCareersInvestorsTermsPrivacy policyBlogSitemapGet the appAccessibility statement© 2024 Udemy, Inc.
+
